@@ -15,6 +15,6 @@ If you are interested in <strong>reviewing the position statement and signing it
   <li><strong>Review</strong> the DRAFT position statement</li>
   <li><strong>Add comments and questions</strong> as an issue on this repository <strong>by November 28, 2025</strong></li>
   <li>The organizing group will review and incorporate comments</li>
-  <li>In early December, the organizing group will notify the RSE community of opportunity to sign the position statement</li>
-  <li>The signed position statement will be <strong>published in mid-December</strong> and distributed broadly</li>
+  <li>By December 10, the organizing group will notify the RSE community of opportunity to sign the position statement</li>
+  <li>The signed position statement will be <strong>by the end of December</strong> and distributed broadly</li>
 </ol>
